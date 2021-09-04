@@ -35,9 +35,7 @@ https://streamable.com/jkhv35
 # Known Bugs
 Very Rarely scenes stop appearing and relog is needed
 
-# Support
-Feel free to report any issues you have in the GitHub [Issues](https://github.com/nerohiro/nh-scenes/issues)
-
-if you wish to add something to it, do a pull request on the github [Pull Requests](https://github.com/nerohiro/nh-scenes/pulls)
+# Credit
+https://github.com/nerohiro
 
 
